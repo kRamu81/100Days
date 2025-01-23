@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kRamu81
-- 👀 I’m interested in Data Analysis, Frontend
-- Development 
+- 👀 I’m interested in Data Analysis, Frontend 
 - 🌱 I’m currently learning Java+DSA, Web development
 - with Code with Swaroop
 - 💞️ I’m looking to collaborate on ...
