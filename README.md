@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kRamu81
 - 👀 I’m interested in Data Analysis, Frontend 
-- 🌱 I’m currently learning Java+DSA, Web Development with Swarooptalks.
+- 🌱 I’m currently Intrested Java+DSA, Database Engineer base 
 - ⚡ Fun fact: Life is worst just enjoy it
 
 <!---
