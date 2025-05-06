@@ -14,10 +14,10 @@ class Solution {
                 ans[1] = end+1 ;
 
                 return ans ;
-            }else if ( sum > target){
-                end--;
-            }else{
+            }else if ( sum < target){
                 start++;
+            }else{
+                end--;
             }
         }
 
