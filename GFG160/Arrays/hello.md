@@ -1,14 +1,14 @@
 
 Day 1 of 100 Days LeetCode Challenge
 
-##**LeetCode Problem #9 – Palindrome Number**
+**LeetCode Problem #9 – Palindrome Number**
 
 **Problem Statement:**
 Given an integer x, return true if x is a palindrome, and false otherwise.
 
 ---
 
-**Examples:**
+##Examples:
 
 Example 1:
 Input: x = 121
