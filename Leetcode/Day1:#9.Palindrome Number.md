@@ -2,8 +2,9 @@
 Difficulty: Easy
 Source: leetcode 9 Palindrome Number
 Tags:
-  -Math
+  - Math
 ---
+## Code (Java)
 ```
 class Solution {
     public boolean isPalindrome(int x) {
