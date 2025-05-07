@@ -1,14 +1,14 @@
 
 Day 1 of 100 Days LeetCode Challenge
 
-#LeetCode Problem #9 – Palindrome Number
+##**LeetCode Problem #9 – Palindrome Number**
 
-Problem Statement:
+**Problem Statement:**
 Given an integer x, return true if x is a palindrome, and false otherwise.
 
 ---
 
-Examples:
+**Examples:**
 
 Example 1:
 Input: x = 121
@@ -37,7 +37,7 @@ $-2^{31} \leq x \leq 2^{31} - 1$
 
 ---
 
-Java Solution:
+**Java Solution:**
 ```
 class Solution {
     public boolean isPalindrome(int x) {
@@ -59,7 +59,7 @@ class Solution {
 
 ---
 
-Python Solution:
+**Python Solution:**
 
 ```def isPalindrome(x: int) -> bool:
     if x < 0:
