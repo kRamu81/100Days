@@ -1,4 +1,5 @@
 ➡️➡️🚨Two Pointers✌️:
+```
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
         int[] ans = new int[2];
@@ -24,10 +25,10 @@ class Solution {
         return ans;
     }
 }
-
+```
 
 ➡️➡️✌️brutefore approach:
-
+```
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
         int[] ans = new int[2];
@@ -45,3 +46,4 @@ class Solution {
 
     }
 }
+```
