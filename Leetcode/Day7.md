@@ -1,3 +1,4 @@
+```
 class Solution {
     public List<Integer> addToArrayForm(int[] num, int k) {
        List<Integer> ans = new ArrayList<>();
@@ -27,3 +28,4 @@ class Solution {
        return ans ;
      }
 }
+```
