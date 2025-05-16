@@ -1,3 +1,4 @@
+```
 class Solution {
     public int[] productExceptSelf(int[] nums) {
         int n = nums.length;
@@ -20,6 +21,7 @@ class Solution {
          return ans ;
     }
 }
+```
 
 
 ➡️➡️✌️
