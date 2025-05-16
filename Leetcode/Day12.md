@@ -1,3 +1,4 @@
+```
 class Solution {
     public int[] sortedSquares(int[] nums) {
 
@@ -21,10 +22,10 @@ class Solution {
         return ans ;
     }
 }
-
+```
 ➡️➡️➡️✌️
 
-
+```
 class Solution {
     public int[] sortedSquares(int[] nums) {
         int n= nums.length;
@@ -36,3 +37,4 @@ class Solution {
         return ans;
     }
 }
+```
