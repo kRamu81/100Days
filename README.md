@@ -25,6 +25,5 @@ Stay tuned for updates as I continue this journey!
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/kRamu_581/)
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/kRamu_581?theme=dark)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kRamu_581?theme=dark)
