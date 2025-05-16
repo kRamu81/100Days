@@ -28,3 +28,8 @@ Stay tuned for updates as I continue this journey!
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kRamu_581?theme=dark)
 
+## 🌿 GFG 100 Days Challenge
+Streak: 🔥 23 days
+
+[Visit my GFG profile »](https://auth.geeksforgeeks.org/user/kramu/practice/)
+
