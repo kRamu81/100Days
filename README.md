@@ -22,3 +22,5 @@ Stay tuned for updates as I continue this journey!
 **Let's connect and grow together!**
 
 ## ✅ My 100 Days of LeetCode with Java (Edslash Challenge)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/your_username/)
