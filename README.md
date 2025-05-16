@@ -21,10 +21,10 @@ Stay tuned for updates as I continue this journey!
 
 **Let's connect and grow together!**
 
-## ✅ My 100 Days of LeetCode with Java (Edslash Challenge)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/kRamu_581/)
 
----
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/kRamu_581?theme=dark)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kRamu_581?theme=dark)
