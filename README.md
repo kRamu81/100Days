@@ -28,3 +28,5 @@ Stay tuned for updates as I continue this journey!
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kRamu_581?theme=dark)
 
+![Contribution Graph](https://github-contributions.vercel.app/api?username=kRamu81)
+
