@@ -1,3 +1,4 @@
+```
 class Solution {
     public int removeElement(int[] nums, int val) {
         int ptr = 0;
@@ -10,3 +11,4 @@ class Solution {
         return ptr;
     }
 }
+```
