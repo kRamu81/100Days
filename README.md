@@ -32,8 +32,8 @@ Stay tuned for updates as I continue this journey!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kRamu581&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github&include_all_commits=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kRamu581&theme=github-dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=kRamu81&theme=github-dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kRamu581&layout=compact&theme=github_dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kRamu81&layout=compact&theme=github_dark&hide_border=false)
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=kRamu581&label=Profile+Views&color=blue&style=flat)
+![Visitor Badge](https://komarev.com/ghpvc/?username=kRamu81&label=Profile+Views&color=blue&style=flat)
