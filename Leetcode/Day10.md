@@ -1,3 +1,4 @@
+```
 class Solution {
     public int missingNumber(int[] nums) {
         int n = nums.length;
@@ -11,10 +12,10 @@ class Solution {
     }
 }
 
-
+```
 
 ➡️➡️➡️✌️ method:
-
+```
 class Solution {
     public int missingNumber(int[] nums) {
         int n = nums.length;
@@ -33,3 +34,4 @@ class Solution {
         return -1; // This should never happen
     }
 }
+```
