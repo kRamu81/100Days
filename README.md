@@ -1,6 +1,4 @@
-# Hi, I'm K.Ramu!
-
-## ✅ My 100 Days of LeetCode with Java (Edslash Challenge)
+# Hi, I'm K.Ramu,
 
 I'm currently learning **Java** and **Data Structures & Algorithms (DSA)** by participating in the **Edslash 100 Days Challenge** on **LeetCode**.
 
@@ -10,7 +8,7 @@ I'm solving one DSA problem every day for 100 days to build consistency, improve
 ## My Progress
 - Platform: [LeetCode](https://leetcode.com)
 - Language: Java
-- Status: In Progress (Day 1/100)
+- Status: In Progress (Day 23/100)
 
 ## Goals
 - Strengthen core DSA concepts
