@@ -28,10 +28,3 @@ Stay tuned for updates as I continue this journey!
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kRamu_581?theme=dark)
 
-## 🚀 Competitive Programming Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-kramu-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kramu/)
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-kramu-success?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kramu/practice/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-kramu-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kramu)
-[![Codeforces](https://img.shields.io/badge/Codeforces-kramu-blue?style=for-the-badge)](https://codeforces.com/profile/kramu)
-
