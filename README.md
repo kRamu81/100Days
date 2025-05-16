@@ -1,4 +1,4 @@
-# Hi, I'm Kramu!
+# Hi, I'm K.Ramu!
 
 I'm currently learning **Java** and **Data Structures & Algorithms (DSA)** by participating in the **Edslash 100 Days Challenge** on **LeetCode**.
 
