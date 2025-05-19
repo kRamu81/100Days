@@ -29,4 +29,10 @@ Stay tuned for updates as I continue this journey!
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kRamu_581?theme=dark)
 
 
+<div align="center">
+  <h3><b>📍Visitor Count</b></h3>
+</div>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/kRamu81/count.svg" />
+</p>
