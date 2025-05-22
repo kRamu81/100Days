@@ -36,3 +36,22 @@ Stay tuned for updates as I continue this journey!
 <p align="center">
   <img src="https://profile-counter.glitch.me/kRamu81/count.svg" />
 </p>
+
+
+
+<h2 align="center">Kanam Ramu</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-image-link" alt="Kanam Ramu" width="200" />
+</p>
+
+<p align="center">
+  <b>Passionate Competitive Programmer | Java & DSA Enthusiast</b><br>
+  <i>CodeChef • Central Board of Secondary Education</i><br>
+  Andhra Pradesh, India
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-kanamramu-blue?logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
