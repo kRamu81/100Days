@@ -37,23 +37,4 @@ Stay tuned for updates as I continue this journey!
   <img src="https://profile-counter.glitch.me/kRamu81/count.svg" />
 </p>
 
-<div align="center">
-        <a href="https://kRamu81.github.io/portfolio/" target="_blank">
-                  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kRamu81&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" width="80%"/>
-        </a>
-</div>
-
-<div align="center">
-        <a href="https://kRamu81.github.io/portfolio/" target="_blank">
-                  <img src="https://github-readme-stats.vercel.app/api?username=kRamu81&show_icons=true&locale=en&langs_count=20&count_private=true&theme=transparent&hide_border=true" width="80%"/>
-        </a>
-</div>
-
-<div align="center">
-        <a href="https://kRamu81.github.io/portfolio/" target="_blank">
-                  <img src="https://github-readme-streak-stats.herokuapp.com?user=kRamu81&theme=vue&background=00000000&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="kRamu81" width="80%"/>
-        </a>
-</div>
-
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kRamu81&theme=vue&bg_color=00000000&hide_border=true)](https://kRamu81.github.io/portfolio/)
 
