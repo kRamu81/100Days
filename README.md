@@ -39,14 +39,18 @@ Stay tuned for updates as I continue this journey!
 
 
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kRamu81&show_icons=true&theme=github_dark&hide_border=false&rank_icon=github&include_all_commits=true)
+<div align="center">
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=kRamu81&theme=github-dark&hide_border=false)
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kRamu81&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" width="80%" />
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kRamu81&layout=compact&theme=github_dark&hide_border=false)
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=kRamu81&theme=github-dark&hide_border=true" width="80%" />
 
-<!-- Contribution Graph -->
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kRamu81&theme=github-dark&hide_border=false)](https://github.com/kRamu81)
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kRamu81&layout=compact&theme=github_dark&hide_border=true" width="80%" />
+
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kRamu81&theme=github-dark&hide_border=true" width="80%" />
+
+</div>
