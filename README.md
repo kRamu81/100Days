@@ -39,21 +39,7 @@ Stay tuned for updates as I continue this journey!
 
 
 
-<div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kRamu81&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" width="80%" />
-
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=kRamu81&theme=github-dark&hide_border=true" width="80%" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kRamu81&layout=compact&theme=github_dark&hide_border=true" width="80%" />
-
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kRamu81&theme=github-dark&hide_border=true" width="80%" />
-
-</div>
 
 
 
